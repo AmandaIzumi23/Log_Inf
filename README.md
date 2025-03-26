@@ -13,7 +13,8 @@ https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.2025
 
 Quarto trabalho de Informática:
 
-<img width="717" alt="image" src="https://github.com/user-attachments/assets/633da6c4-efb8-42e9-b5d3-17852cc531cd" />
+<img width="716" alt="image" src="https://github.com/user-attachments/assets/f231ac7d-64e4-4694-a8bf-91c3d63d7c8a" />
+
 
 
 
