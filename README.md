@@ -12,7 +12,7 @@
 [Base de dados públicos](https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20251/Student%20Work/Working%20files/AMANDA%20CAROLINA%20DE%20SOUZA%20IZUMI/Usando%20f%C3%B3rmulas%20e%20dados%20abertos/Informatica_Logistica-Atividade1%20-%20Amanda%20Izumi.xlsm?d=wbf995713b71b4118abb0cbbdf11e0a00&csf=1&web=1&e=bTngJp)
 
 ## Quarto trabalho de Informática:
-[Power BI]
+[Power BI](https://fatecspgov-my.sharepoint.com/:u:/r/personal/amanda_izumi_fatec_sp_gov_br/Documents/Trabalho_Inform%C3%A1tica%20-%20PBI.pbix?csf=1&web=1&e=bqqKLw)
 
 <img width="716" alt="image" src="https://github.com/user-attachments/assets/f231ac7d-64e4-4694-a8bf-91c3d63d7c8a" />
 
@@ -20,6 +20,7 @@
 [Base de dados Pública - Viagens 2024](https://fatecspgov-my.sharepoint.com/:x:/r/personal/amanda_izumi_fatec_sp_gov_br/Documents/Lista%20de%202024%20-%20Dados%20de%20Viagens%20Federais.csv?d=w38665a0393074ad79609384e2bbe5c39&csf=1&web=1&e=eaTleF)
 
 [Power BI - Dados Públicos](https://fatecspgov-my.sharepoint.com/:u:/r/personal/amanda_izumi_fatec_sp_gov_br/Documents/Trabalho%20Inf-10_Abril.pbix?csf=1&web=1&e=dDsFi9)
+
 <img width="599" alt="image" src="https://github.com/user-attachments/assets/9fb44170-f15f-44ab-a9a2-530d2f746e58" />
 
 
