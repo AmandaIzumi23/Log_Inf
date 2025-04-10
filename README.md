@@ -9,6 +9,8 @@ Segundo trabalho de Informática:
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/amanda_izumi_fatec_sp_gov_br/Documents/INF-File.xlsx?d=w7769919fd75e4a61a523452875ecc636&csf=1&web=1&e=4u7mfh
 
 Terceiro trabalho de Informática:
+[Excel Despesas](https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20251/Student%20Work/Working%20files/AMANDA%20CAROLINA%20DE%20SOUZA%20IZUMI/Usando%20f%C3%B3rmulas%20e%20dados%20abertos/Informatica_Logistica-Atividade1%20-%20Amanda%20Izumi.xlsm?d=wbf995713b71b4118abb0cbbdf11e0a00&csf=1&web=1&e=bTngJp)
+
 https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20251/Student%20Work/Working%20files/AMANDA%20CAROLINA%20DE%20SOUZA%20IZUMI/Usando%20f%C3%B3rmulas%20e%20dados%20abertos/Informatica_Logistica-Atividade1%20-%20Amanda%20Izumi.xlsm?d=wbf995713b71b4118abb0cbbdf11e0a00&csf=1&web=1&e=bTngJp
 
 Quarto trabalho de Informática:
