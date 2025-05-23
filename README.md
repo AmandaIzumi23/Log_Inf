@@ -23,6 +23,12 @@
 
 <img width="599" alt="image" src="https://github.com/user-attachments/assets/9fb44170-f15f-44ab-a9a2-530d2f746e58" />
 
+## Sexto trabalho de Informática:
+[Acesse aqui o arquivo Sorvete](https://github.com/AmandaIzumi23/Log_Inf/raw/refs/heads/main/Sorvete_TrabalhoInf.ipynb)
+[Acesse aqui o arquivo Cerveja]
+[Acesse aqui o arquivo Imóveis]
+
+
 
 
 
