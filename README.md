@@ -26,7 +26,8 @@
 ## Sexto trabalho de Informática:
 [Acesse aqui o arquivo Sorvete](https://github.com/AmandaIzumi23/Log_Inf/raw/refs/heads/main/Sorvete_TrabalhoInf.ipynb)
 [Acesse aqui o arquivo Cerveja]
-[Acesse aqui o arquivo Imóveis](https://github.com/AmandaIzumi23/Log_Inf/raw/refs/heads/main/Im%C3%B3veis.ipynb) e 
+[Acesse aqui o arquivo Imóveis](https://github.com/AmandaIzumi23/Log_Inf/raw/refs/heads/main/Im%C3%B3veis.ipynb)
+[Acesse aqui o arquivo Imóveis em Excel](https://github.com/AmandaIzumi23/Log_Inf/raw/refs/heads/main/Imoveis_Inf.zip)
 
 
 
