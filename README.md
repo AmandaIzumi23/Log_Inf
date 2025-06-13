@@ -39,6 +39,7 @@
 ## Fluxo Automate </br>
 <img width="948" alt="image" src="https://github.com/user-attachments/assets/1d713b19-3b55-423a-a09c-66540767003b" />
 
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/6194d105-e058-46b3-84b7-821b0cb0754f" />
 
 
 
