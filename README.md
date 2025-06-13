@@ -30,7 +30,7 @@
 [Acesse aqui o arquivo Imóveis em Excel](https://github.com/AmandaIzumi23/Log_Inf/raw/refs/heads/main/Imoveis_Inf.zip) </br>
 
 ## Sétimo trabalho de Informática:
-<img width="948" alt="image" src="https://github.com/user-attachments/assets/8dc6e6d2-50b1-4737-b14c-6858d281f2e5" /> </br>
+<img width="923" alt="image" src="https://github.com/user-attachments/assets/2fe3f434-f845-4d43-8f3e-6d57602ee1c6" /> </br>
 
 
 ## Oitavo Trabalho de Informática:
