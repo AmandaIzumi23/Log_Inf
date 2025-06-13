@@ -29,6 +29,16 @@
 [Acesse aqui o arquivo Imóveis](https://github.com/AmandaIzumi23/Log_Inf/raw/refs/heads/main/Im%C3%B3veis.ipynb) </br>
 [Acesse aqui o arquivo Imóveis em Excel](https://github.com/AmandaIzumi23/Log_Inf/raw/refs/heads/main/Imoveis_Inf.zip) </br>
 
+## Oitavo Trabalho de Informática:
+![GravaodeTela2025-06-12220016-ezgif com-optimize](https://github.com/user-attachments/assets/43b74fe1-89b1-4dcd-b33a-531ecb913190)
+
+Fluxo Automate
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/1d713b19-3b55-423a-a09c-66540767003b" />
+
+
+
+
+
 
 
 
