@@ -43,7 +43,10 @@
 
 ## Prova Informática 26-06  </br>
 
-![App Gravação](https://github.com/user-attachments/assets/de81f1d6-1cdb-417e-a01d-38fa389d96e8)
+![App Gravação](https://github.com/user-attachments/assets/de81f1d6-1cdb-417e-a01d-38fa389d96e8)</br>
+
+![Gravando PBI](https://github.com/user-attachments/assets/cccd0916-fca2-427d-b41d-115967753cf7)</br>
+
 
 
 
