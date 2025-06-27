@@ -41,6 +41,10 @@
 
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/6194d105-e058-46b3-84b7-821b0cb0754f" /> </br>
 
+## Prova Informática 26-06  </br>
+
+![App Gravação](https://github.com/user-attachments/assets/de81f1d6-1cdb-417e-a01d-38fa389d96e8)
+
 
 
 
